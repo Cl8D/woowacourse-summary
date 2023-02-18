@@ -22,6 +22,7 @@
 |__자동차 경주 게임__|[📕](https://github.com/Cl8D/java-racingcar/tree/main)|`2023-02-07` ~ `2023-02-11`|[1️⃣](https://github.com/woowacourse/java-racingcar/pull/455)|[2️⃣](https://github.com/woowacourse/java-racingcar/pull/619)|
 |__자기소개 페이지 제작하기__|[📕](https://github.com/Cl8D/web-introduction)|`2023-02-17` ~ `2023-02-17`|Ⅹ|Ⅹ|
 
+<br>
 
 ## ✔️ 기타 활동
-- ✈️ 온보딩 연극 활동: [회고](https://github.com/woowacourse/retrospective/discussions/29#discussioncomment-4954331)
+### ✈️ 온보딩 연극 활동: [회고](https://github.com/woowacourse/retrospective/discussions/29#discussioncomment-4954331)
