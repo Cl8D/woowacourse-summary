@@ -23,3 +23,5 @@
 |__자기소개 페이지 제작하기__|[📕](https://github.com/Cl8D/web-introduction)|`2023-02-17` ~ `2023-02-17`|Ⅹ|Ⅹ|
 
 
+## ✔️ 기타 활동
+- ✈️ 온보딩 연극 활동: [회고](https://github.com/woowacourse/retrospective/discussions/29#discussioncomment-4954331)
