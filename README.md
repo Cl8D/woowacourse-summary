@@ -20,6 +20,6 @@
 | Name | Repository | Period | PR 1단계 | PR 2단계 |
 |:---:|:---:|:---:|:---:|:---:|
 |__자동차 경주 게임__|[📕](https://github.com/Cl8D/java-racingcar/tree/main)|`2023-02-07` ~ `2023-02-11`|[1️⃣](https://github.com/woowacourse/java-racingcar/pull/455)|[2️⃣](https://github.com/woowacourse/java-racingcar/pull/619)|
-
+|__자기소개 페이지 제작하기__|[📕](https://github.com/Cl8D/web-introduction)|`2023-02-17` ~ `2023-02-17`|Ⅹ|Ⅹ|
 
 
