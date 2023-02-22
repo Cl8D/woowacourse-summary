@@ -17,14 +17,15 @@
 <br>
 
 ## ✔️ 본 과정
-| Name | Repository | Period | PR 1단계 | PR 2단계 |
-|:---:|:---:|:---:|:---:|:---:|
-|__자동차 경주 게임__|[📕](https://github.com/Cl8D/java-racingcar/tree/cl8d)|`2023-02-07` ~ `2023-02-11`|[1️⃣](https://github.com/woowacourse/java-racingcar/pull/455)|[2️⃣](https://github.com/woowacourse/java-racingcar/pull/619)|
-|__자기소개 페이지 제작__|[📕](https://github.com/Cl8D/web-introduction)|`2023-02-17` ~ `2023-02-17`|Ⅹ|Ⅹ|
-|__사다리 타기__|[📕](https://github.com/Cl8D/java-ladder/tree/cl8d)|`2023-02-14` ~ `2023-02-27`|[1️⃣](https://github.com/woowacourse/java-ladder/pull/140)|Ⅹ|
+| Name | Repository | Period | PR 1단계 | PR 2단계 | 회고 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|__자동차 경주 게임__|[📕](https://github.com/Cl8D/java-racingcar/tree/cl8d)|`2023-02-07` ~ `2023-02-11`|[1️⃣](https://github.com/woowacourse/java-racingcar/pull/455)|[2️⃣](https://github.com/woowacourse/java-racingcar/pull/619)|[✏️](https://cl8d.tistory.com/33)|
+|__자기소개 페이지 제작__|[📕](https://github.com/Cl8D/web-introduction)|`2023-02-17` ~ `2023-02-17`|Ⅹ|Ⅹ|Ⅹ|
+|__사다리 타기__|[📕](https://github.com/Cl8D/java-ladder/tree/cl8d)|`2023-02-14` ~ `2023-02-27`|[1️⃣](https://github.com/woowacourse/java-ladder/pull/140)|[2️⃣](https://github.com/woowacourse/java-ladder/pull/156)||
 
 
 <br>
 
 ## ✔️ 기타 활동
 ### ✈️ 온보딩 연극 활동: [회고](https://github.com/woowacourse/retrospective/discussions/29#discussioncomment-4954331)
+### ✈️ 우테코 미니 미션: [📕](https://github.com/Cl8D/wootecho-mini-mission)
