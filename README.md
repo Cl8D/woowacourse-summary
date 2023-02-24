@@ -1,7 +1,6 @@
 # ✨ 우아한테크코스 5기 
 안녕하세요, 5기 백엔드 크루 져니입니다 ⛄️  
 우아한테크코스를 활동하며 진행했던 내용을 정리하는 레파지토리입니다!
-
 <br>
 
 ## ✔️ 프리코스 
@@ -29,3 +28,12 @@
 ## ✔️ 기타 활동
 ### ✈️ 온보딩 연극 활동: [회고](https://github.com/woowacourse/retrospective/discussions/29#discussioncomment-4954331)
 ### ✈️ 우테코 미니 미션: [📕](https://github.com/Cl8D/wootecho-mini-mission)
+
+<br>
+
+## ✔️ 스터디
+| Name | Repository | Period | Summary |
+|:---:|:---:|:---:|:---:|
+| __레벨1 이팩티브 자바 스터디__ | [📕](https://github.com/woowacourse-study/2023-Singleton-Effective-Java-Study) | `2023-02-20` ~ | - |
+| __레벨1 모던 자바 인 액션 스터디__ | [📕](https://github.com/woowacourse-study/2023-modern-java-in-action) | `2023-02-22` ~ | [💬](https://cl8d.tistory.com/category/Java/Modern%20Java%20in%20Action) |
+| __꾸글쓰__ | [📕](https://github.com/woowacourse-study/Gugles) | `2023-02-23` ~ | - |
