@@ -21,7 +21,7 @@
 |__자동차 경주 게임__|[📕](https://github.com/Cl8D/java-racingcar/tree/cl8d)|`2023-02-07` ~ `2023-02-11`|[1️⃣](https://github.com/woowacourse/java-racingcar/pull/455)|[2️⃣](https://github.com/woowacourse/java-racingcar/pull/619)|[✏️](https://cl8d.tistory.com/33)|
 |__자기소개 페이지 제작__|[📕](https://github.com/Cl8D/web-introduction)|`2023-02-17` ~ `2023-02-17`|Ⅹ|Ⅹ|Ⅹ|
 |__사다리 타기__|[📕](https://github.com/Cl8D/java-ladder/tree/cl8d)|`2023-02-14` ~ `2023-02-27`|[1️⃣](https://github.com/woowacourse/java-ladder/pull/140)|[2️⃣](https://github.com/woowacourse/java-ladder/pull/156)||
-
+|__블랙잭 구현__|[📕](https://github.com/Cl8D/java-blackjack/tree/cl8d)|`2023-02-28` ~ `2023-03-13`|[1️⃣](https://github.com/woowacourse/java-blackjack/pull/452)|[2️⃣](https://github.com/woowacourse/java-blackjack/pull/538)||
 
 <br>
 
