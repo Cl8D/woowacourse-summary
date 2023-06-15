@@ -25,6 +25,8 @@
 |__블랙잭 구현__|[📕](https://github.com/Cl8D/java-blackjack)|`2023-02-28` ~ `2023-03-13`|[1️⃣](https://github.com/woowacourse/java-blackjack/pull/452)|[2️⃣](https://github.com/woowacourse/java-blackjack/pull/538)|[✏️](https://cl8d.tistory.com/47)|
 |__체스 게임 구현__|[📕](https://github.com/cl8d/java-chess)|`2023-03-14` ~ `2023-03-27`|[1️⃣](https://github.com/woowacourse/java-chess/pull/485)|[2️⃣](https://github.com/woowacourse/java-chess/pull/604)|[✏️](https://cl8d.tistory.com/51)|
 
+<br>
+
 ### 🍀 레벨 2
 | Name | Repository | Period | PR 1단계 | PR 2단계 | 회고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -38,6 +40,7 @@
 ## ✔️ 기타 활동
 ### ✈️ 온보딩 연극 활동: [회고](https://github.com/woowacourse/retrospective/discussions/29#discussioncomment-4954331)
 ### ✈️ 우테코 미니 미션: [📕](https://github.com/Cl8D/wootecho-mini-mission)
+### ✈️ 글쓰기 미션: [📕](https://github.com/cl8d/woowa-writing-5)
 ### ✈️ 학습 고도화팀 근로 (프롤로그): [📕](https://github.com/woowacourse/prolog)
 
 <br>
@@ -48,5 +51,5 @@
 | __레벨1 이팩티브 자바 스터디__ | [📕](https://github.com/woowacourse-study/2023-Singleton-Effective-Java-Study) | `2023-02-20` ~ | [💬](https://cl8d.tistory.com/category/Java/Effective%20Java)  |
 | __레벨1 모던 자바 인 액션 스터디__ | [📕](https://github.com/woowacourse-study/2023-modern-java-in-action) | `2023-02-22` ~ `2023-03-27`| [💬](https://cl8d.tistory.com/category/Java/Modern%20Java%20in%20Action) |
 | __꾸글쓰__ | [📕](https://github.com/woowacourse-study/Gugles) | `2023-02-23` ~ | - |
-| __레벨2 네트워크 스터디__ | - | `2023-04-15` ~ | [💬](https://cl8d.tistory.com/search/Network) |
-| __레벨2 프롤로그 로드맵 스터디__ | [📕](https://github.com/woowacourse-study/KISSTUDY) | `2023-04-28` ~ | - |
+| __레벨2 네트워크 스터디__ | - | `2023-04-15` ~ `2023-06-08` | [💬](https://cl8d.tistory.com/search/Network) | - |
+| __레벨2 프롤로그 로드맵 스터디__ | [📕](https://github.com/woowacourse-study/KISSTUDY) | `2023-04-28` ~ `2023-06-08` | - |
