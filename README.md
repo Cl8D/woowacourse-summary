@@ -33,6 +33,7 @@
 |__웹 자동차 경주 미션__|[📕](https://github.com/Cl8D/jwp-racingcar)|`2023-04-11` ~ `2023-04-24`|[1️⃣](https://github.com/woowacourse/jwp-racingcar/pull/61)|[2️⃣](https://github.com/woowacourse/jwp-racingcar/pull/99)|[✏️](https://cl8d.tistory.com/65)|
 |__장바구니 미션__|[📕](https://github.com/cl8d/jwp-shopping-cart)|`2023-04-25` ~ `2023-05-08`|[1️⃣](https://github.com/woowacourse/jwp-shopping-cart/pull/202)|[2️⃣](https://github.com/woowacourse/jwp-shopping-cart/pull/270)|[✏️](https://cl8d.tistory.com/86)|
 |__지하철 미션__|[📕](https://github.com/cl8d/jwp-subway-path)|`2023-05-09` ~ `2023-05-22`|[1️⃣](https://github.com/woowacourse/jwp-subway-path/pull/45)|[2️⃣](https://github.com/woowacourse/jwp-subway-path/pull/111)|[✏️](https://cl8d.tistory.com/91)|
+|__장바구니 협업 미션__|[📕](https://github.com/cl8d/jwp-shopping-order)|`2023-05-23` ~ `2023-06-05`|[1️⃣](https://github.com/woowacourse/jwp-shopping-order/pull/19)|-|[✏️](https://cl8d.tistory.com/104)|
 
 
 <br>
@@ -53,3 +54,4 @@
 | __꾸글쓰__ | [📕](https://github.com/woowacourse-study/Gugles) | `2023-02-23` ~ | - |
 | __레벨2 네트워크 스터디__ | - | `2023-04-15` ~ `2023-06-08` | [💬](https://cl8d.tistory.com/search/Network) | - |
 | __레벨2 프롤로그 로드맵 스터디__ | [📕](https://github.com/woowacourse-study/KISSTUDY) | `2023-04-28` ~ `2023-06-08` | - |
+| __레벨3 DB 스터디__ | [📕](https://github.com/woowacourse-study/2023-DB-Study-BE) | `2023-06-04` ~ | [💬](https://cl8d.tistory.com/category/%E2%9C%8F%EF%B8%8F/Database) |
