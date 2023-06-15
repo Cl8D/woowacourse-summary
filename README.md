@@ -49,7 +49,7 @@
 ## ✔️ 스터디
 | Name | Repository | Period | Summary |
 |:---:|:---:|:---:|:---:|
-| __레벨1 이팩티브 자바 스터디__ | [📕](https://github.com/woowacourse-study/2023-Singleton-Effective-Java-Study) | `2023-02-20` ~ | [💬](https://cl8d.tistory.com/category/Java/Effective%20Java)  |
+| __레벨1 이팩티브 자바 스터디__ | [📕](https://github.com/woowacourse-study/2023-Singleton-Effective-Java-Study) | `2023-02-20` ~ `2023-03-27`| [💬](https://cl8d.tistory.com/category/Java/Effective%20Java)  |
 | __레벨1 모던 자바 인 액션 스터디__ | [📕](https://github.com/woowacourse-study/2023-modern-java-in-action) | `2023-02-22` ~ `2023-03-27`| [💬](https://cl8d.tistory.com/category/Java/Modern%20Java%20in%20Action) |
 | __꾸글쓰__ | [📕](https://github.com/woowacourse-study/Gugles) | `2023-02-23` ~ | - |
 | __레벨2 네트워크 스터디__ | - | `2023-04-15` ~ `2023-06-08` | [💬](https://cl8d.tistory.com/search/Network) | - |
