@@ -54,4 +54,4 @@
 | __꾸글쓰__ | [📕](https://github.com/woowacourse-study/Gugles) | `2023-02-23` ~ | - |
 | __레벨2 네트워크 스터디__ | - | `2023-04-15` ~ `2023-06-08` | [💬](https://cl8d.tistory.com/search/Network) | - |
 | __레벨2 프롤로그 로드맵 스터디__ | [📕](https://github.com/woowacourse-study/KISSTUDY) | `2023-04-28` ~ `2023-06-08` | - |
-| __레벨3 DB 스터디__ | [📕](https://github.com/woowacourse-study/2023-DB-Study-BE) | `2023-06-04` ~ | [💬](https://cl8d.tistory.com/category/%E2%9C%8F%EF%B8%8F/Database) |
+| __레벨3 DB 스터디__ | [📕](https://github.com/woowacourse-study/2023-DB-Study-BE) | `2023-06-04` ~ | [💬](https://cl8d.tistory.com/category/%F0%9F%93%96/Real%20MySQL%208.0) |
